@@ -5,3 +5,5 @@ x=arr.copy()
 arr[0]=42
 print(arr)   #prints the changed array
 print(x)    #prints the original array
+
+#copy() owns the data.Changes to the orignal array does not affect the copy() and vice versa.
