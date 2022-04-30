@@ -6,7 +6,7 @@ arr2=np.array([5,4,3,5,2])
 arr=np.stack((arr1,arr2),axis=1)  #stack is same as concatenate except for one thing.
 print(arr)
 
-#First element is combined in both the arrays...Similarly all the elements.
+#First element is combined in both the arrays...Similarly all the elements
 
 
 
